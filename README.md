@@ -1,5 +1,7 @@
 # Eventbrite VSCode Snippets
-This repository is a collection of snippets for Visual Studio Code
+This repository is a collection of snippets for Visual Studio Code.  
+
+![](https://d.pr/i/tXtAlp+)
 
 ## Installing and updating
 To install...
