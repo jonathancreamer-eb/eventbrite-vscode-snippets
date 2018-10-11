@@ -10,6 +10,9 @@
     "categories": [
         "Snippets"
     ],
+    "scripts": {
+        "version": "standard-version"
+    },
     "contributes": {
         "snippets": [
             {
@@ -17,5 +20,8 @@
                 "path": "./snippets/js-eb-snippets.json"
             }
         ]
+    },
+    "devDependencies": {
+        "standard-version": "^4.4.0"
     }
 }
