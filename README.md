@@ -64,3 +64,8 @@ export default class $1 extends PureComponent {
     }
 }
 ```
+
+## Adding Snippets
+To add a snippet, first create an issue to track it.
+
+Then you can add it to the corresponding snippet fild in `/snippets`.
