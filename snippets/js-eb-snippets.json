@@ -1,0 +1,39 @@
+{
+    "Basic Reducer": {
+        "prefix": "eb-redux-basic-reducer",
+        "body": ["function $1(state = {}, {type, payload}) {",
+            "\tswitch (type) {",
+            "\t\tcase 'ACTION':",
+            "\t\t\treturn {",
+            "\t\t\t\t...state,",
+            "\t\t\t};",
+            "\t\tdefault:",
+            "\t\t\treturn state;",
+            "\t}",
+            "};",
+            "",
+            "export default $1;"],
+        "description": "Creates a simple reducer"
+    },
+    "Simple EDS Component": {
+        "prefix": "eds-basic-component",
+        "body": [
+            "import React, {PureComponent} from 'react';",
+            "import PropTypes from 'prop-types';",
+            "",
+            "/**",
+            " * Component description",
+            " */",
+            "export default class $1 extends PureComponent {",
+            "\tstatic propTypes = {};",
+            "",
+            "\trender() {",
+            "",
+            "\t\treturn (",
+            "\t\t\t",
+            "\t\t);",
+            "\t}",
+            "}"
+        ]
+    }
+}

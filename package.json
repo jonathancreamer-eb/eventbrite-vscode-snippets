@@ -1,0 +1,21 @@
+{
+    "name": "eventbrite-vscode-snippets",
+    "displayName": "Eventbrite VSCode Snippets",
+    "description": "Snippets for writing code at Eventbrite.",
+    "version": "0.0.1",
+    "publisher": "Eventbrite",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/js-eb-snippets.json"
+            }
+        ]
+    }
+}
