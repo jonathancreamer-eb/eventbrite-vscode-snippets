@@ -1,27 +1,27 @@
 {
-    "name": "eventbrite-vscode-snippets",
-    "displayName": "Eventbrite VSCode Snippets",
-    "description": "Snippets for writing code at Eventbrite.",
-    "version": "0.0.1",
-    "publisher": "Eventbrite",
-    "engines": {
-        "vscode": "^1.28.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "scripts": {
-        "version": "standard-version"
-    },
-    "contributes": {
-        "snippets": [
-            {
-                "language": "javascript",
-                "path": "./snippets/js-eb-snippets.json"
-            }
-        ]
-    },
-    "devDependencies": {
-        "standard-version": "^4.4.0"
-    }
+  "name": "eventbrite-vscode-snippets",
+  "displayName": "Eventbrite VSCode Snippets",
+  "description": "Snippets for writing code at Eventbrite.",
+  "version": "0.0.2",
+  "publisher": "Eventbrite",
+  "engines": {
+    "vscode": "^1.28.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "scripts": {
+    "version": "standard-version"
+  },
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/js-eb-snippets.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "standard-version": "^4.4.0"
+  }
 }

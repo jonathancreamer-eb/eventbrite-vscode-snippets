@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.0.2"></a>
+## [0.0.2](https://github.com/jonathancreamer-eb/eventbrite-vscode-snippets/compare/v0.0.1...v0.0.2) (2018-10-11)
+
+
+### Bug Fixes
+
+* add npm scripts ([6c9b8fe](https://github.com/jonathancreamer-eb/eventbrite-vscode-snippets/commit/6c9b8fe))
+
+
+
 <a name="0.0.1"></a>
 ## 0.0.1 (2018-10-11)
 
