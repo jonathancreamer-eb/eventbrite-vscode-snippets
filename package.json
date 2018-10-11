@@ -1,8 +1,9 @@
 {
   "name": "eventbrite-vscode-snippets",
+  "private": true,
   "displayName": "Eventbrite VSCode Snippets",
   "description": "Snippets for writing code at Eventbrite.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "Eventbrite",
   "engines": {
     "vscode": "^1.28.0"
