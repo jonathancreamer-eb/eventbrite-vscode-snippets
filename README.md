@@ -1,10 +1,21 @@
 # Eventbrite VSCode Snippets
 This repository is a collection of snippets for Visual Studio Code
 
-## Installing
+## Installing and updating
+To install...
+
 ```
-git@github.com:jonathancreamer-eb/eventbrite-vscode-snippets.git ~/.vscode/extensions
+git clone git@github.com:jonathancreamer-eb/eventbrite-vscode-snippets.git ~/.vscode/extensions
 ```
+
+To update...
+
+```
+cd ~/.vscode/extensions/eventbrite-vscode-snippets
+git pull
+```
+
+Then reload VS Code!
 
 ## Snippets
 They are located in the `/snippets` directory.
